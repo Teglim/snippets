@@ -1,2 +1,2 @@
-# library
-Competitive Programming C++ Library
+# Snippets
+Competitive Programming C++ Snippets
